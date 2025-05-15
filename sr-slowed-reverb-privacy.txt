@@ -1,13 +1,23 @@
-🔐 Privacy Policy
-Last updated: [May 15, 2025]
-Your privacy is important to us. The Slowed + Reverb app does not collect, store, or share any personal information.
-What We Access
-	•	We access your device storage only to let you import and edit your audio files.
-	•	All audio processing happens within the app on your device.
-	•	No user data is uploaded to any server or shared with third parties.
-Subscriptions
-If you choose to subscribe, payment and subscription management is handled by Apple via your App Store account. We do not store any billing information.
-Analytics and Ads
-We do not use analytics tools or show advertisements.
-If you have any questions, feel free to contact us at  srapp.contact@gmail.com,
-.
+Privacy Policy  
+Last updated: May 15, 2025
+
+The Slowed + Reverb app respects your privacy. This app does not collect, store, or share any personal information.
+
+1. Data Collection
+We do not collect your name, email, device ID, IP address, or any other personal data. No account creation is required to use the app.
+
+2. Access to Files
+The app requests access to your local storage in order to let you import and edit your audio files. All audio processing is performed on your device. Nothing is uploaded to external servers.
+
+3. Subscriptions
+If you choose to subscribe, billing and subscription management is handled through your Apple App Store account. We do not store any payment information ourselves.
+
+4. Analytics & Ads
+We do not use any analytics tools and we do not display ads in the app.
+
+5. Third Parties
+We do not share any data with third parties.
+
+6. Contact
+If you have any questions, you may contact us at: [your email address]
+
